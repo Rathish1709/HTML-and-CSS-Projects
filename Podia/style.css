@@ -1,0 +1,652 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 100vw;
+    height: 250px;
+}
+
+nav{
+    word-spacing: 50px;
+}
+h3{
+    position: relative;
+    top: 6%;
+    left: 10%;
+    font-family: cursive;
+    font-size: 34px;
+    color: #4B2AAd;
+}
+a{
+    text-decoration: none;
+    position: relative;
+    left: 20%;
+    bottom: 30px;
+    font-size: 24px;
+    font-weight:900 ;
+   
+}
+header button{
+    position: relative;
+    left: 36%;
+    bottom: 30px;
+    width: 11vw;
+    height: 8vh;
+    border-radius: 40px;
+    background-color: #4B2AAd;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+
+.main{
+    width: 100vw;
+    min-height: 100vh;
+}
+
+.A{
+    width: 1-0vw;
+    height: 350px;
+}
+.A p{
+    text-align: center;
+    font-size: 83px;
+    bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.A,small{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    font-weight: 100;
+    font-family: sans-serif;
+   
+
+}
+.main button{
+    position: relative;
+    width: 20vw;
+    height: 10vh;
+    border-radius: 40px;
+    background-color: #4B2AAd;
+    color: white;
+    font-size: 25px;
+    bottom: 10px;
+    font-weight: bold;
+}
+.main img{
+    position: relative;
+    bottom: 60px;
+    right: 5%;
+    
+}
+.main1{
+    width: 100vw;
+    height: 40vh;
+    margin-top: 90px;
+}
+.B p{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 55px;
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+.main1,small{
+    text-align: center;
+    
+}
+.main2{
+    width: 100vw;
+    height: 80vh;
+    
+}
+.B small{
+    font-weight: 500;
+    font-family: sans-serif;
+    font-size: 29px;
+}
+
+.C small{
+    position: relative;
+    font-size: small;
+    left: 4%;
+    color: #9C8881;
+    font-weight: 900;
+}
+.C h4{
+    position: relative;
+    font-size: 40px;
+    left: 5%;
+}
+.C p{
+    position: relative;
+    left: 5%;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.C h5{
+    position: relative;
+    left: 5%;
+    font-size:25px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.C img{
+    width: 40vw;
+    height: 35vw;
+    position: absolute;
+    right: 4%;
+    bottom: -180%;
+}
+
+.C button{
+    position: absolute;
+    width: 11vw;
+    height: 3.3vw;
+    border-radius: 40px;
+    left: 5%;
+    background-color: #F5EFEB;
+    font-size: large;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+}
+.C >.b1{
+    position: absolute;
+    left: 53%;
+    top: 239.5%;
+}
+.C >.b2{
+    position: absolute;
+    left: 53%;
+    top: 249%;
+}
+.C >.b3{
+    position: absolute;
+    left: 53%;
+    top: 259%;
+}
+.main3{
+    margin-top: 80px;
+    width: 100vw;
+    height: 90vh;
+}
+.D small{
+    position: relative;
+    font-size: small;
+    left: 4%;
+    color: #9C8881;
+    font-weight: 900;
+    margin-top: 10px;
+}
+.D h4{
+    position: relative;
+    font-size: 40px;
+    left: 5%;
+}
+.D p{
+    position: relative;
+    left: 5%;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.D h5{
+    position: relative;
+    left: 5%;
+    font-size:25px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.D img{
+    width: 40vw;
+    height: 35vw;
+    position: absolute;
+    right: 4%;
+    bottom: -280%;
+    border-radius: 15px;
+}
+.D button{
+    position: absolute;
+    width: 11vw;
+    height: 3.3vw;
+    border-radius: 40px;
+    left: 5%;
+    background-color: #F5EFEB;
+    font-size: large;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+}
+.D >.b1{
+    position: absolute;
+    left: 53%;
+    top: 342%;
+}
+.D >.b2{
+    position: absolute;
+    left: 53%;
+    top: 353%;
+}
+.D >.b3{
+    position: absolute;
+    left: 53%;
+    top: 362.5%;
+}
+.main4{
+    width: 100vw;
+    height: 90vh;
+    margin-top: 80px;
+}
+.E small{
+    position: relative;
+    font-size: small;
+    left: 4%;
+    color: #9C8881;
+    font-weight: 900;
+}
+.E h4{
+    position: relative;
+    font-size: 40px;
+    left: 5%;
+}
+.E p{
+    position: relative;
+    left: 5%;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.E h5{
+    position: relative;
+    left: 5%;
+    font-size:25px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.E img{
+    width: 40vw;
+    height: 38vw;
+    position: absolute;
+    right: 4%;
+    bottom: -391%;
+    border-radius: 15px;
+}
+.E button{
+    position: absolute;
+    width: 11vw;
+    height: 3.3vw;
+    border-radius: 40px;
+    left: 5%;
+    background-color: #F5EFEB;
+    font-size: large;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+}
+.E >.b1{
+    position: absolute;
+    left: 53%;
+    top: 449%;
+}
+.E >.b2{
+    position: absolute;
+    left: 53%;
+    top: 459%;
+}
+.E >.b3{
+    position: absolute;
+    left: 53%;
+    top: 470%;
+}
+.E >.b4{
+    position: absolute;
+    left: 53%;
+    top: 479%;
+}
+
+.main5{
+    width: 100vw;
+    height: 90vh;
+    margin-top: 80px;
+}
+.F small{
+    position: relative;
+    font-size: small;
+    left: 4%;
+    color: #9C8881;
+    font-weight: 900;
+}
+.F h4{
+    position: relative;
+    font-size: 40px;
+    left: 5%;
+}
+.F p{
+    position: relative;
+    left: 5%;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.F h5{
+    position: relative;
+    left: 5%;
+    font-size:25px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.F img{
+    width: 40vw;
+    height: 38vw;
+    position: absolute;
+    right: 4%;
+    bottom: -500%;
+    border-radius: 15px;
+}
+.F button{
+    position: absolute;
+    width: 11vw;
+    height: 3.3vw;
+    border-radius: 40px;
+    left: 5%;
+    background-color: #F5EFEB;
+    font-size: large;
+    font-weight: bold;
+    box-shadow: none;
+    border: none;
+}
+.F >.b1{
+    position: absolute;
+    left: 53%;
+    top: 520%;
+}
+.F >.b2{
+    position: absolute;
+    left: 53%;
+    top: 530%;
+}
+.F >.b3{
+    position: absolute;
+    left: 53%;
+    top: 540%;
+}
+.main6 .G{
+    border: 0px solid;
+    width: 90vw;
+    height: 80vh;
+    background-color:#F5EFEB;
+    position: relative;
+    left: 5%;
+    top: 100px;
+    border-radius: 10px;
+    
+}
+.G img{
+    width: 30vw;
+    height: 65vh;
+    margin: 50px;
+}
+
+.G1{
+    position: absolute;
+    left: 43%;
+    top: 625%;
+    width: 52vw;
+    height: 70vh;
+}
+.G1 small{
+    font-size: smaller;
+    color: #9C8881;
+    font-weight: 900;
+    position: absolute;
+    left: 1.4%;
+    top: -2%;
+}
+.G1 h4{
+    font-size: 45px;
+    position: absolute;
+    left: 3%;
+    top: 11%;
+}
+.G1 p{
+    position: absolute;
+    top: 27%;
+    left: 3%;
+    font-size: 24px;
+    letter-spacing: 1px;
+    line-height: 2;
+    opacity: 0.6;
+}
+.G1 h5{
+    position: absolute;
+    top: 60%;
+    left: 3%;
+    font-size: large;
+    opacity: 0.6;
+    font-weight: lighter;
+
+}
+.G1 button{
+    background-color: #4B2AAd;
+    position: absolute;
+    top: 70%;
+    left: 3%;
+    width: 15vw;
+    height: 8vh;
+    border-radius: 40px;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+.G1 img{
+    position: absolute;
+    top: 85%;
+    left: 3%;
+}
+.main7 {
+    width: 100vw;
+    height: 70vh;
+}
+.H p{
+    position: absolute;
+    text-align: center;
+    left: 6.5%;
+    font-size: 55px;
+    margin-top: 100px;
+}
+.H h5{
+    position: absolute;
+    margin-top: 250px;
+    text-align: center;
+    left: 9%;
+    font-size: 29px;
+    font-weight: lighter;
+    opacity: 0.6;
+}
+.main8{
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 90px;
+}
+.I{
+    border-radius: 10px;
+    background-color: whitesmoke;
+    width: 25vw;
+ 
+}
+.I img{
+    border-radius: 50%;
+    width: 188px;
+    height: 188px;
+    position: absolute;
+    margin-top: 20px;
+    left: 14%;
+}
+.I h4{
+   font-family: 'Times New Roman', Times, serif;
+   position: relative;
+   margin-top: 58%;
+   left: 19%;
+   font-size: 28px;
+   font-weight: lighter;
+}
+.I p{
+    position: relative;
+    margin-top: 9%;
+    left: 2%;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 1px;
+    opacity: 0.6;
+    font-weight: normal;
+}
+.I small{
+    position: relative;
+    color: #4B2AAd;
+    left: 35%;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.J{
+    border-radius: 10px;
+    background-color: whitesmoke;
+    width: 25vw;
+}
+.J img{
+    border-radius: 50%;
+    width: 188px;
+    height: 188px;
+    position: absolute;
+    margin-top: 20px;
+    left: 45%;
+}
+.J h4{
+   font-family: 'Times New Roman', Times, serif;
+   position: relative;
+   margin-top: 58%;
+   left: 19%;
+   font-size: 28px;
+   font-weight: lighter;
+}
+.J p{
+    position: relative;
+    margin-top: 9%;
+    left: 2%;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 1px;
+    opacity: 0.6;
+    font-weight: normal;
+}
+.J small{
+    position: relative;
+    color: #4B2AAd;
+    left: 35%;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.K{
+    border-radius: 10px;
+    background-color: whitesmoke;
+    width: 25vw;
+}
+.K img{
+    border-radius: 50%;
+    width: 188px;
+    height: 188px;
+    position: absolute;
+    margin-top: 20px;
+    left: 76%;
+}
+.K h4{
+   font-family: 'Times New Roman', Times, serif;
+   position: relative;
+   margin-top: 58%;
+   left: 27%;
+   font-size: 28px;
+   font-weight: lighter;
+}
+.K p{
+    position: relative;
+    margin-top: 9%;
+    left: 2%;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 1px;
+    opacity: 0.6;
+    font-weight: normal;
+}
+.K small{
+    position: relative;
+    color: #4B2AAd;
+    left: 35%;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.main9{
+    width: 100vw;
+    height: 40vh;
+}
+.L{
+    width: 85vw;
+    height:50vh ;
+    background-color: yellow;
+    margin: 100px auto;
+    padding: 50px;
+    background-color: navy;
+    border-radius: 10px;
+    
+}
+.L h1{
+    position: relative;
+    text-align: center;
+    font-size: 45px;
+    color: white;
+}
+.L p{
+    position: relative;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    letter-spacing: 1px;
+}
+.L button{
+    position: relative;
+    left: 43%;
+    bottom: 30px;
+    width: 11vw;
+    height: 8vh;
+    border-radius: 40px;
+    background-color: #9484C6;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+.main10{
+    
+    position: relative;
+    top: 200px;
+    width: 100vw;
+    height: 50vh;
+    background-color: #F5EFEB;
+}
+
+.M{
+
+}
+
+.M li{
+    display: inline;
+    margin: 20px;
+    padding: 20px;
+    position: relative;
+    font-size: large;
+    line-height: 40px;
+    
+}
